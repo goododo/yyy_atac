@@ -1,0 +1,7 @@
+ctrl	../results/ctrl-1/ctrl-1_sorted.bam ../results/ctrl-2/ctrl-2_sorted.bam
+treated	../results/treated-1/treated-1_sorted.bam ../results/treated-2/treated-2_sorted.bam
+cell2early	../results/bam/GSM1933921_2cell_early_re1.bam ../results/bam/GSM1933922_2cell_early_re2.bam
+cell2	../results/bam/GSM1933924_2cell_re1.bam ../results/bam/GSM1933925_2cell_re2.bam
+cell4	../results/bam/GSM1625847_4cell_re1.bam ../results/bam/GSM1933927_4cell_re2.bam
+cell8	../results/bam/GSM1933928_8cell_re1.bam ../results/bam/GSM1933929_8cell_re2.bam
+icm	../results/bam/GSM1933930_icm_re1.bam ../results/bam/GSM2156963_icm_re2.bam
