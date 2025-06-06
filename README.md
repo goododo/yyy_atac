@@ -31,6 +31,8 @@ step7_pooled_peak_calling.sh
 ### 10. Differentiation peaks analysis
 step8_diff_peak_bedtools.sh
 
+_**The group information is provided as "groups.txt"**_
+
 ## ✅ GAO's part (in R)
 ### 1. Counting and plotting
 
